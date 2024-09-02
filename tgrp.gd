@@ -1,5 +1,3 @@
-LoadPackage( "LieAlgDB" );
-
 ### general.gi
 
 DeclareProperty( "IsTGroup", IsPcpGroup );
